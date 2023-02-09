@@ -1,0 +1,21 @@
+
+
+body h1 {
+    color:blue;
+    font-weight:bold;
+    font-size: 100%;
+}
+
+body h2{
+    background-color:blue;
+    color:white;
+    font-weight: bold;
+    font-size: 100%;
+}
+
+*/ box-sizing: border-box;
+
+div h2{
+    <span>bonus vobis<span>
+    font-size: 200%;
+}
